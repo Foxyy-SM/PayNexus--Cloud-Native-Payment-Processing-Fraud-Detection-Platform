@@ -1,5 +1,0 @@
-/Users/smarak.mishra@iqvia.com/Library/CloudStorage/OneDrive-IQVIA/My Projects/payflow/services/api-gateway/src/main/java/com/payflow/gateway/ApiGatewayApplication.java
-/Users/smarak.mishra@iqvia.com/Library/CloudStorage/OneDrive-IQVIA/My Projects/payflow/services/api-gateway/src/main/java/com/payflow/gateway/config/GatewaySecurityConfig.java
-/Users/smarak.mishra@iqvia.com/Library/CloudStorage/OneDrive-IQVIA/My Projects/payflow/services/api-gateway/src/main/java/com/payflow/gateway/config/RateLimitConfig.java
-/Users/smarak.mishra@iqvia.com/Library/CloudStorage/OneDrive-IQVIA/My Projects/payflow/services/api-gateway/src/main/java/com/payflow/gateway/controller/SystemStatusController.java
-/Users/smarak.mishra@iqvia.com/Library/CloudStorage/OneDrive-IQVIA/My Projects/payflow/services/api-gateway/src/main/java/com/payflow/gateway/filter/CorrelationIdGatewayFilter.java
